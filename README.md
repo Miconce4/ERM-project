@@ -11,3 +11,7 @@ Develop a professional MVP that reflects how projects and personnel are managed 
 Showcase competencies in frontend, backend, databases, and role-based access control.
 
 Demonstrate best development practices such as version control, pull requests, and collaborative teamwork.
+
+## Project co-creators:
+- Miguel Contreras Cerro
+- Miguel Ángel Cadena Real
